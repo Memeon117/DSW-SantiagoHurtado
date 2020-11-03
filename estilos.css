@@ -37,7 +37,7 @@ body{
     position: absolute;
     background: #005883;
     margin-top: 15px;
-    margin left: 15px;
+    margin-left: 15px;
 }
 .menu_bar ul li:hover .sub-menu-1 ul{
     display: block;
